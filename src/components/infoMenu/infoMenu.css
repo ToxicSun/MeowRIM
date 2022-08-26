@@ -1,0 +1,39 @@
+body{
+    color: #B27ACC;
+}
+.info__block{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.text__info__block{
+    width: 440px;
+    height: 410px;
+}
+.first__block{
+    font-size: 150px;
+}
+.second__block{
+    font-size: 72px;
+    line-height: 130px;
+    margin-top: -15px;
+}
+.button{
+    width: 220px;
+    height: 70px;
+    border: 3px #240046 solid;
+    font-size: 20px;
+    border-radius: 23px;
+    color: #240046;
+    background: #fff;
+    margin-top: 40px;
+}
+.image__tablet{
+    width: 868px;
+    height: 560px;
+    margin-top: -50px;
+}
+.part{
+    z-index: -1;
+}
