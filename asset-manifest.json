@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MeowRIM/static/css/main.b36fa950.css",
+    "main.js": "/MeowRIM/static/js/main.70e94d27.js",
+    "static/js/787.72348a66.chunk.js": "/MeowRIM/static/js/787.72348a66.chunk.js",
+    "static/media/Tablet.png": "/MeowRIM/static/media/Tablet.4a3dcc0349856e68044e.png",
+    "static/media/Rectangle 13.png": "/MeowRIM/static/media/Rectangle 13.e6ab9c7b035911fcae58.png",
+    "static/media/Rectangle 15.png": "/MeowRIM/static/media/Rectangle 15.ae789e7708634a4afc04.png",
+    "static/media/Rectangle 14.png": "/MeowRIM/static/media/Rectangle 14.aa53306a292084e77d65.png",
+    "static/media/Rectangle 16.png": "/MeowRIM/static/media/Rectangle 16.1cb918913e6992b6f40c.png",
+    "static/media/Rectangle 22.png": "/MeowRIM/static/media/Rectangle 22.17834b7859dfebbddb05.png",
+    "static/media/Rectangle 21.png": "/MeowRIM/static/media/Rectangle 21.bbc10ee29d6fe5fc7eef.png",
+    "static/media/Rectangle 23.png": "/MeowRIM/static/media/Rectangle 23.0cd1e52a404aeb5050b3.png",
+    "index.html": "/MeowRIM/index.html",
+    "main.b36fa950.css.map": "/MeowRIM/static/css/main.b36fa950.css.map",
+    "main.70e94d27.js.map": "/MeowRIM/static/js/main.70e94d27.js.map",
+    "787.72348a66.chunk.js.map": "/MeowRIM/static/js/787.72348a66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36fa950.css",
+    "static/js/main.70e94d27.js"
+  ]
+}
